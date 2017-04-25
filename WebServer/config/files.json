@@ -1,0 +1,12 @@
+{
+    "areas": {
+        "media": {
+                "cable_base_profiler": {
+                    "templateId": "1234567890"
+                    }
+        },
+        "mobile": [
+
+        ]
+    }
+}

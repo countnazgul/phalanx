@@ -1,0 +1,28 @@
+{
+  "name": "phalanx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/countnazgul/phalanx.git"
+  },
+  "author": "Stefan Stoichev (stefan.stoichev@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/countnazgul/phalanx/issues"
+  },
+  "homepage": "https://github.com/countnazgul/phalanx#readme",
+  "engines": {
+    "node": ">=0.10.3 <0.12"
+  },
+  "dependencies": {
+    "enigma.js": "^1.1.1",
+    "express": "^4.15.2",
+    "vue": "^2.2.6",
+    "ws": "^2.3.1"
+  }
+}
