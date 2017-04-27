@@ -1,6 +1,6 @@
 {
   "name": "phalanx",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
     "node": ">=0.10.3 <0.12"
   },
   "dependencies": {
+    "async": "^2.3.0",
     "enigma.js": "^1.1.1",
     "express": "^4.15.2",
     "vue": "^2.2.6",
